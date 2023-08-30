@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Sharma</h1>
-<h3 align="center">Founder @ Iternity | Former Summer Intern @ TCPL | Virtual Internship @ Quantium, Walmart | Ex-AIESEC | MERN Stack Engineer | Data Scientist</h3>
+<h3 align="center">Founder @ Iternity | Summer Intern @ TCPL | Virtual Internship @ Quantium, Walmart | Ex-AIESEC | MERN Stack Engineer | Data Scientist</h3>
 
 - 🌱 I’m currently learning **Node.js, React.js, React Native**
 
