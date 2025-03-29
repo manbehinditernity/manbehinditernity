@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Sharma</h1>
-<h3 align="center">Founder @ Iternity | Former Summer Intern @ TCPL | Ex-AIESEC | React Native Developer |</h3>
+<h3 align="center">Founder @ Iternity | Creativity @ Mushroom World Group | Former Summer Intern @ TCPL | Ex-AIESEC |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manbehinditernity&label=Profile%20views&color=0e75b6&style=flat" alt="manbehinditernity" /> </p>
 
