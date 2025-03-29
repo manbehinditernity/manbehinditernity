@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manbehinditernity" alt="manbehinditernity" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iternity_in" target="blank"><img src="https://img.shields.io/twitter/follow/iternity_in?logo=twitter&style=for-the-badge" alt="iternity_in" /></a> </p>
+<p align="left"> <a href="https://instagram/vrunsharmaa" target="blank"><img src="https://img.shields.io/instagram/follow/vrunsharmaa?logo=instagram&style=for-the-badge" alt="vrunsharmaa" /></a> </p>
 
 - 🎓 I’m currently perusing **Master in Business Administration, Business Analytics & Finance**
 
