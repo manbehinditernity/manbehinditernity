@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manbehinditernity" alt="manbehinditernity" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iternity_in" target="blank"><img src="https://img.shields.io/twitter/follow/iternity_in?logo=twitter&style=for-the-badge" alt="iternity_in" /></a> </p>
-<p align="left"> <a href="https://instagram/vrunsharmaa" target="blank"><img src="https://img.shields.io/instagram/follow/vrunsharmaa?logo=instagram&style=for-the-badge" alt="vrunsharmaa" /></a> </p>
 
 - 🎓 I’m currently perusing **Master in Business Administration, Business Analytics & Finance**
 
@@ -14,13 +13,19 @@
 
 - ⚡ Fun fact **Sometimes my days and nights are of equal**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/manbehinditernity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manbehinditernity" height="30" width="40" /></a>
 <a href="https://twitter.com/iternity_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iternity_in" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vrunsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vrunsharmaa" height="30" width="40" /></a>
 <a href="https://instagram.com/vrunsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrunsharmaa" height="30" width="40" /></a>
-<a href="https://dribbble.com/manbehinditernity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/manbehinditernity" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/manbehinditernity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/manbehinditernity" height="30" width="40" /></a>
 <a href="https://www.behance.net/iternitystudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="iternitystudio" height="30" width="40" /></a>
+<a href="https://medium.com/@manbehinditernity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@manbehinditernity" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/iternity" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iternity" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/iternity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iternity" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manbehinditernity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manbehinditernity" height="30" width="40" /></a>
